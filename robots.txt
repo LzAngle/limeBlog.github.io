@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://daliangzai.club/sitemap.xml
+Sitemap: https://daliangzai.blog/sitemap.xml
