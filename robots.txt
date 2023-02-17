@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://daliangzai.blog/sitemap.xml
+Sitemap: https://lzAngleBlog.github.io/sitemap.xml
